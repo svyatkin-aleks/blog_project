@@ -145,3 +145,4 @@ cython_debug/
 /.idea/blog_project.iml
 /.idea/.gitignore
 /.idea/inspectionProfiles/Project_Default.xml
+/.idea
